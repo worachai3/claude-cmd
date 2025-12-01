@@ -6,7 +6,6 @@ A natural language to shell command translator powered by Claude AI. Type what y
 
 - **Node.js** v18 or higher
 - **Claude Code CLI** installed and authenticated (`npm install -g @anthropic-ai/claude-code`)
-- **Anthropic API access** (Claude Code must be configured with valid credentials)
 
 ## Installation
 
